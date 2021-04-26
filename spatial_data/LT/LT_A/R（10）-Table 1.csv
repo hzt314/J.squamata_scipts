@@ -1,0 +1,49 @@
+Results of Spatial Structure Analysis,,,,,,,,,
+,,,,,,,,,
+Genetic Distance,GD,,,,,,,,
+Geographic Distance,GGD,,,,,,,,
+Data Title,,,,,,,,,
+,,,,,,,,,
+No. Samples,72,,,,,,,,
+Even Distance Classes (Size = 10),,,,,,,,,
+No. Dist. Classes,100,,,,,,,,
+No. Permutations,99,,,,,,,,
+No. Bootstraps,100,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+n,265,659,519,404,297,217,118,60,17
+Distance Class (End Point),10,20,30,40,50,60,70,80,90
+r,-0.000,0.001,-0.006,0.009,-0.008,0.001,0.017,-0.016,0.001
+U,0.016,0.010,0.015,0.015,0.018,0.020,0.032,0.039,0.086
+L,-0.017,-0.011,-0.014,-0.015,-0.017,-0.024,-0.027,-0.040,-0.078
+P(r-rand >= r-data),0.550,0.320,0.850,0.100,0.830,0.490,0.100,0.800,0.440
+P(r-rand <= r-data),0.460,0.690,0.160,0.910,0.180,0.520,0.910,0.210,0.570
+Correction,0.014,0.014,0.014,0.014,0.014,0.014,0.014,0.014,0.014
+r uc,-0.014,-0.013,-0.020,-0.005,-0.022,-0.013,0.003,-0.030,-0.013
+U uc,0.002,-0.004,0.000,0.001,0.004,0.006,0.018,0.025,0.072
+L uc,-0.031,-0.025,-0.028,-0.029,-0.031,-0.038,-0.041,-0.054,-0.092
+Mean Bootstrap r,0.001,0.002,-0.005,0.008,-0.008,0.000,0.017,-0.014,0.003
+Ur error,0.023,0.011,0.015,0.014,0.017,0.023,0.025,0.050,0.053
+Lr error,0.026,0.012,0.016,0.016,0.017,0.027,0.024,0.036,0.046
+Ur,0.023,0.013,0.009,0.023,0.009,0.023,0.042,0.034,0.054
+Lr,-0.026,-0.010,-0.022,-0.008,-0.025,-0.026,-0.007,-0.053,-0.045
+Intercept,21.622,,,,,,,,
+,,,,,,,,,
+"r, U and L values are adjusted by the correction factor.  Uncorrected values are shown as r uc, U uc, L uc.  Bootstrap mean, Ur, Lr are also adjusted by the correction factor.",,,,,,,,,
+Upper (Ur error) and lower (Lr error) error bars bound the 95% confidence interval about r as determined by bootstrap resampling.,,,,,,,,,
+Upper (U) and lower (L) confidence limits bound the 95% confidence interval about the null hypothesis of No spatial structure for the combined data set as determined by permutation.,,,,,,,,,

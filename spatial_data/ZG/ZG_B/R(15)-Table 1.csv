@@ -1,0 +1,49 @@
+Results of Spatial Structure Analysis,,,,,,,
+,,,,,,,
+Genetic Distance,GD,,,,,,
+Geographic Distance,GGD,,,,,,
+Data Title,,,,,,,
+,,,,,,,
+No. Samples,53,,,,,,
+Even Distance Classes (Size = 15),,,,,,,
+No. Dist. Classes,100,,,,,,
+No. Permutations,99,,,,,,
+No. Bootstraps,100,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+n,383,303,95,97,242,205,53
+Distance Class (End Point),15,30,45,60,75,90,105
+r,0.008,-0.009,0.007,-0.002,0.003,-0.008,0.005
+U,0.012,0.016,0.023,0.028,0.019,0.018,0.039
+L,-0.013,-0.017,-0.034,-0.040,-0.019,-0.026,-0.043
+P(r-rand >= r-data),0.190,0.910,0.290,0.570,0.440,0.770,0.490
+P(r-rand <= r-data),0.820,0.100,0.720,0.440,0.570,0.240,0.520
+Correction,0.019,0.019,0.019,0.019,0.019,0.019,0.019
+r uc,-0.011,-0.028,-0.012,-0.021,-0.017,-0.027,-0.014
+U uc,-0.007,-0.003,0.003,0.009,-0.000,-0.001,0.020
+L uc,-0.033,-0.036,-0.054,-0.059,-0.038,-0.045,-0.063
+Mean Bootstrap r,0.008,-0.009,0.006,-0.002,0.004,-0.008,0.007
+Ur error,0.021,0.020,0.041,0.031,0.020,0.020,0.041
+Lr error,0.023,0.015,0.038,0.039,0.024,0.018,0.030
+Ur,0.029,0.011,0.048,0.029,0.023,0.012,0.046
+Lr,-0.015,-0.024,-0.031,-0.041,-0.021,-0.026,-0.025
+Intercept,22.120,,,,,,
+,,,,,,,
+"r, U and L values are adjusted by the correction factor.  Uncorrected values are shown as r uc, U uc, L uc.  Bootstrap mean, Ur, Lr are also adjusted by the correction factor.",,,,,,,
+Upper (Ur error) and lower (Lr error) error bars bound the 95% confidence interval about r as determined by bootstrap resampling.,,,,,,,
+Upper (U) and lower (L) confidence limits bound the 95% confidence interval about the null hypothesis of No spatial structure for the combined data set as determined by permutation.,,,,,,,

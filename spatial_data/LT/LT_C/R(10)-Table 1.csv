@@ -1,0 +1,49 @@
+Results of Spatial Structure Analysis,,,,,,,,,,
+,,,,,,,,,,
+Genetic Distance,GD,,,,,,,,,
+Geographic Distance,GGD,,,,,,,,,
+Data Title,,,,,,,,,,
+,,,,,,,,,,
+No. Samples,65,,,,,,,,,
+Even Distance Classes (Size = 10),,,,,,,,,,
+No. Dist. Classes,100,,,,,,,,,
+No. Permutations,99,,,,,,,,,
+No. Bootstraps,100,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+n,206,415,387,238,224,205,191,143,63,8
+Distance Class (End Point),10,20,30,40,50,60,70,80,90,100
+r,0.043,0.019,0.015,-0.001,-0.021,-0.028,-0.044,-0.023,-0.010,0.010
+U,0.036,0.016,0.017,0.026,0.029,0.021,0.032,0.026,0.044,0.133
+L,-0.029,-0.021,-0.018,-0.029,-0.020,-0.026,-0.028,-0.028,-0.049,-0.130
+P(r-rand >= r-data),0.010,0.030,0.050,0.530,1.000,1.000,1.000,0.950,0.560,0.440
+P(r-rand <= r-data),1.000,0.980,0.960,0.480,0.010,0.010,0.010,0.060,0.450,0.570
+Correction,0.016,0.016,0.016,0.016,0.016,0.016,0.016,0.016,0.016,0.016
+r uc,0.028,0.003,-0.000,-0.017,-0.037,-0.044,-0.059,-0.038,-0.025,-0.006
+U uc,0.020,0.001,0.001,0.010,0.013,0.006,0.017,0.011,0.029,0.117
+L uc,-0.044,-0.037,-0.034,-0.044,-0.036,-0.042,-0.044,-0.043,-0.064,-0.146
+Mean Bootstrap r,0.044,0.019,0.016,-0.002,-0.019,-0.031,-0.041,-0.023,-0.007,0.028
+Ur error,0.036,0.019,0.021,0.019,0.023,0.021,0.029,0.038,0.043,0.131
+Lr error,0.045,0.022,0.024,0.023,0.016,0.029,0.027,0.033,0.040,0.132
+Ur,0.079,0.038,0.036,0.018,0.002,-0.007,-0.014,0.015,0.033,0.141
+Lr,-0.001,-0.003,-0.009,-0.024,-0.038,-0.057,-0.071,-0.056,-0.050,-0.122
+Intercept,39.120,,,,,,,,,
+,,,,,,,,,,
+"r, U and L values are adjusted by the correction factor.  Uncorrected values are shown as r uc, U uc, L uc.  Bootstrap mean, Ur, Lr are also adjusted by the correction factor.",,,,,,,,,,
+Upper (Ur error) and lower (Lr error) error bars bound the 95% confidence interval about r as determined by bootstrap resampling.,,,,,,,,,,
+Upper (U) and lower (L) confidence limits bound the 95% confidence interval about the null hypothesis of No spatial structure for the combined data set as determined by permutation.,,,,,,,,,,
